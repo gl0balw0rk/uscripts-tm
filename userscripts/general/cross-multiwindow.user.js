@@ -13,8 +13,8 @@
 // @match        https://www.stake.com.co/*
 // @match        https://bwin.co/*
 // @match        https://www.bwin.co/*
-// @updateURL    https://raw.githubusercontent.com/gl0balw0rk/uscripts-tm/main/userscripts/cross-window.user.js
-// @downloadURL  https://raw.githubusercontent.com/gl0balw0rk/uscripts-tm/main/userscripts/cross-window.user.js
+// @updateURL    https://raw.githubusercontent.com/gl0balw0rk/uscripts-tm/main/userscripts/general/cross-multiwindow.user.js
+// @downloadURL  https://raw.githubusercontent.com/gl0balw0rk/uscripts-tm/main/userscripts/general/cross-multiwindow.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_addValueChangeListener
