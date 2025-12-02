@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetBurger → BetPlay Cross-Window Type (TM bus) - radio lock por atajo, reseteo por cambio de apuesta
 // @namespace    tt.tools
-// @version      2.4
+// @version      1.0
 // @description  Ctrl+Shift+1/2 desde BetPlay pide valores a BetBurger (.calculator-body hijos 1/2), escribe simulando tecleo y fija el radio según el primer atajo. El lock se resetea al cambiar de apuesta (cambio de URL o refresco del contenedor .calculator-body).
 // @match        https://www.betburger.com/*
 // @match        https://betburger.com/*
