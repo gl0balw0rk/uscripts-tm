@@ -92,9 +92,9 @@
     function applyFooter(amount) {
         const inputs = rightInputs();
         if (inputs.length < 2) return false;
-        const roundTo = inputs[0]; // 1º input => siempre 1
+        const roundTo = inputs[0]; // 1º input => redondeo
         const stake = inputs[1]; // 2º input => monto popup
-        setEditor(roundTo, "1");
+        // setEditor(roundTo, "1000");
         setEditor(stake, digits(amount));
         return true;
     }
