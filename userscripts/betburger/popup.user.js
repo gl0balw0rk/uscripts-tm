@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BetBurger – Popup "Monto de apuesta" + Auto-fill footer (RightWrapper: 1º=round-to=1, 2º=monto)
 // @namespace    tt.tools
-// @version      1.1
+// @version      1.2
 // @description  Popup centrado superior (arrastrable, persistente). En .calculator-footer .right-button-wrapper: 1º input = 1 (round-to) y 2º input = monto del popup. Escritura silenciosa (setter nativo + eventos). Reaplica en SPA y cambios del DOM.
 // @match        https://www.betburger.com/*
 // @updateURL    https://raw.githubusercontent.com/gl0balw0rk/uscripts-tm/main/userscripts/betburger/popup.user.js
